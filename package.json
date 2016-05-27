@@ -21,10 +21,11 @@
   },
   "dependencies": {
     "cheerio": "0.*",
-    "entities": "1.*",
-    "html-entities": "^1.2.0",
     "moment": "2.0.0",
+    "entities": "1.*",
     "root-class": "1.*",
-    "sanitize-html": "^1.11.4"
+    "html-entities": "1.2.0",
+    "split-html": "1.0.1",
+    "sanitize-html": "1.11.4"
   }
 }
